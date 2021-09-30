@@ -8,8 +8,12 @@ Ce n'est que la partie Back end d'une application web. Il n'y a pas de rendu vis
 
 On utilisera le code suivant sur un terminal à la racine du fichier
 
-`npm install`
+`
+npm install
+`
 
 puis on tapera 
 
-`npm start`
+`
+npm start
+`
